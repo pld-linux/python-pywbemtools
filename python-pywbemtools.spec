@@ -7,7 +7,7 @@ Summary:	Python tools for communicating with WBEM servers
 Summary(pl.UTF-8):	Pythonowe narzędzia do komunikacji z serwerami WBEM
 Name:		python-pywbemtools
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pywbemtools/
